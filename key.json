@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ageofempire2de-f3504",
+  "private_key_id": "b8f28ef8c2b7f264fa6863b35343b61be6e12783",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4o7B1KmzLqnvi\nrmQlgfw6myll0BAxsZJnmzUPfSUjl1dC/BkNv6PHkpl5q2qWnV4sffeBh/Dq5OYS\n7O1Xh+o+7UMG+AxXsWVT99WP5AaT4Tmeo7MbavKJvjBhVO9s2TWiv1mV46CA0NPu\nwW/O7jafsKQkEHVrS6p1N/j4zR0ZjbFdyd40IXzJFNOPq36fUNzbJIVaFXK7jx2f\nHQUeS26XFLLft6nOwVYEDFp4aVgQlJUGqRv2Rq0d6WN6DP5ub/adikJ2lx7ARdhz\nyAzb4wqSBo0WErGi6vAbgVXW0fbXo5ki6tw3kJ0MufLtY2kkSxttIncRjDI+hDAw\nBTHPuAqpAgMBAAECggEAGui2RJkignst828thr7fMu5elelBFvD1cJaQ4NlBAqMh\nk1BY2WVa2fDeX7pQ/jLgoPTZz72vaZhjBJKVk4pqI/IhsOARMm2W4iouLHqTz9UE\n9/8NERugzdzTQbgmbbNpSvb+uCbUwzlMDdGQuTSD7vmILn5ckn7UUKGP7ji8ezbp\nBPbPowOtapTBpxkCODqrY/WQgt4jpQD5wJka0NnP2PyTncvjFCXg3JmP2aCidsOG\nN8MtDnQScC/vO8J0qcrCW7/p+9/9qQC5skh9c6bzvDjDBiC0AtjD+515PQeaBM4z\nm6+i0lRQcS+cLMXcZrmmAf0hdB41rxJg0+98h6gGVQKBgQDojgcShIEmfRJzGhCK\niQrIy+tO4WBaZPuVD2vyPY6EAji9ilz20GsQlSJI8PziIHWTxqJq1n1eO8BlDZgK\nrA+kCbbo2I1YFzY9IOnYOR2eDjjNHayf+aZgxseScQnJEZO9vrrfe9W/RiOKRNaa\nayaLoHycnsgm/aP/AjAWCOEKfQKBgQDLQQVFQTQwlBc5HDGQKqWWOvrv9In0pzWQ\nEGi998c5L57WqvExg9st4YL6ydkacVZtQ6knsjhJtdM2tEvuv0oQxsHIAp3EP5F8\n1ddpWKu5GWBtnXNoBm1FazbegHYxy+0EBUrZoRq9QCS3FiHYq+M0H6AjoGnKehrO\nRmwaVQ3MnQKBgQCqSkZXgvvnqTJ3YqC2MT/aZah7bIHX75ZiQpazHexcMhxGfykv\n+tJLpEkkzIMBOu+eNJf+T+4hsPNjjB7HwdL6NbrgqqJl3Sl0fcN+9+P+Nz/Uw2QD\nCRaSSz0cuPWHbP2Yti+1MsMEe2HPADV9gfUJzY0ySvsZwiXyuDFqETppKQKBgEFF\nciHZXJ81D3ghm7EGYQKrkiY4y4yrncHT4y8OQQYWStX5M1eJVnuXbe6Hn5akSvLv\nxYSf8P+KyndI0xGqkGhuy5AldvCs0VXbfj+wYAUjJxpMc+E2HyUp1wcBDfPT3xtp\nb64P1Hxt+txo2RmxqVb1yQFn5FFHgRA5AUI7iiDpAoGAXA7qKV4/Q99wT8ksIQf3\nf0SbGMsK2xO/rYF5YkxS4pvIhzJ/a2ZA0czFhrVtuI9tGXW0Q7LawadH0RUK92Pa\ntwoJKoj5TE3bBX2IzuPXF1QDeUJQFF3Tft8mxgpXQOVgYokXEEWLf0oxHjU6PpcB\nBo8n+VKD8aMBrEqpdQ8HKlc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3tdqg@ageofempire2de-f3504.iam.gserviceaccount.com",
+  "client_id": "117641131804168201210",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3tdqg%40ageofempire2de-f3504.iam.gserviceaccount.com"
+}
